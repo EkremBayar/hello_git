@@ -70,5 +70,5 @@ def aslicerman():
 def emirhan_yurtseven():
     print("Emirhan Yurtseven")
 
-def nisa():
+def nisak():
     print("Nisa Kapukaya")
