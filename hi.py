@@ -66,3 +66,6 @@ def kubra():
 
 def aslicerman():
     print("aslicerman")
+
+def emirhan_yurtseven():
+    print("Emirhan Yurtseven")
