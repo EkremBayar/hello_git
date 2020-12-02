@@ -59,7 +59,10 @@ def duyguozturk():
     print("Çay?")
 
 def mehmet_tan():
-	print("It is always darkest before the dawn.")
+    print("It is always darkest before the dawn.")
+
+def hamdi_boyraz():
+    print("if you are not tired, you're not doing it right")
 
 def kubra():
     print("Merhabalar")
